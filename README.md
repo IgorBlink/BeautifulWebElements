@@ -22,6 +22,7 @@ cd BeautifulWebElements
 _Open any HTML file in your browser and explore the examples._
 
 __Contributions:__
+
 We welcome community contributions! If you have ideas for improvements or want to add your own examples, please create a Pull Request. Your contributions will help make this project even better!
 
 ## RUS
@@ -33,7 +34,7 @@ __Что внутри:__
 Навигационные панели: Стили для горизонтальных и вертикальных меню, выпадающих списков и боковых панелей.
 Карточки и модальные окна: Красиво оформленные карточки для отображения контента и модальные окна для взаимодействия с пользователем.
 __Как использовать:__
-## Клонируйте репозиторий:**
+## Клонируйте репозиторий:
 ```
 git clone https://github.com/yourusername/BeautifulWebElements.git
 ```
@@ -45,4 +46,5 @@ cd BeautifulWebElements
 _Откройте любой HTML файл в вашем браузере и изучите примеры._
 
  __Вклад:__
+
 Мы приветствуем вклад сообщества! Если у вас есть идеи по улучшению или вы хотите добавить свои собственные примеры, пожалуйста, создайте Pull Request. Ваш вклад поможет сделать этот проект еще лучше!****
