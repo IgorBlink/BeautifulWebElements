@@ -7,11 +7,12 @@ Buttons: Various button styles, from simple to complex, with animations and hove
 Forms: Examples of form styling, including text fields, checkboxes, radio buttons, and submit buttons.
 Navigation bars: Styles for horizontal and vertical menus, dropdown lists, and side panels.
 Cards and modals: Beautifully designed cards for content display and modals for user interaction.
+
 __How to use:__
 
 ## Clone the repository:
 ```
-git clone https://github.com/yourusername/BeautifulWebElements.git
+git clone https://github.com/IgorBlink/BeautifulWebElements
 ```
 
 ## Navigate to the repository directory:
@@ -36,7 +37,7 @@ __Что внутри:__
 __Как использовать:__
 ## Клонируйте репозиторий:
 ```
-git clone https://github.com/yourusername/BeautifulWebElements.git
+git clone https://github.com/IgorBlink/BeautifulWebElements
 ```
 
 ## Перейдите в каталог репозитория:
