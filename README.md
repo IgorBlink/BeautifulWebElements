@@ -3,6 +3,7 @@
 Welcome to the BeautifulWebElements repository! This project is dedicated to creating beautiful and stylish web elements using HTML and CSS. Here you will find a variety of button styles, forms, navigation bars, and other UI components that can be used to enhance the look and feel of your web projects.
 
  __What's inside:__
+ 
 Buttons: Various button styles, from simple to complex, with animations and hover effects.
 Forms: Examples of form styling, including text fields, checkboxes, radio buttons, and submit buttons.
 Navigation bars: Styles for horizontal and vertical menus, dropdown lists, and side panels.
@@ -30,10 +31,12 @@ We welcome community contributions! If you have ideas for improvements or want t
 Добро пожаловать в репозиторий BeautifulWebElements! Этот проект посвящен созданию красивых и стильных веб-элементов с использованием HTML и CSS. Здесь вы найдете разнообразные стилизации кнопок, форм, навигационных панелей и других компонентов пользовательского интерфейса, которые можно использовать для улучшения внешнего вида ваших веб-проектов.
 
 __Что внутри:__
+
 Кнопки: Различные стили кнопок, от простых до сложных, с анимациями и эффектами наведения.
 Формы: Примеры оформления форм, включая текстовые поля, чекбоксы, радиокнопки и кнопки отправки.
 Навигационные панели: Стили для горизонтальных и вертикальных меню, выпадающих списков и боковых панелей.
 Карточки и модальные окна: Красиво оформленные карточки для отображения контента и модальные окна для взаимодействия с пользователем.
+
 __Как использовать:__
 ## Клонируйте репозиторий:
 ```
